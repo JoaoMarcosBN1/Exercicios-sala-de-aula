@@ -5,7 +5,7 @@ main(){
 
     int mesa, menu, opcao, bebida;
     
-    printf("Digite o númro da mesa:\n");
+    printf("Digite o número da mesa:\n");
     scanf("%d", &mesa);
 
     printf("O cliente deseja qual opção?\n[1]Rodízio\n[2]A Lacarte\n\n");
