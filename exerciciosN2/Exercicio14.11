@@ -20,15 +20,7 @@ if (numero[5] < 0){
 } else {
     
     return 0;
-
 }
 
-
-
-
-
-
-
-
-
+    }
 }
